@@ -1,4 +1,4 @@
-var server = "https://hpalm.its.yale.edu";
+var server = "";
 $(document).ready(function () {
     $.ajax({
         url: server + '/qcbin/rest/is-authenticated',
